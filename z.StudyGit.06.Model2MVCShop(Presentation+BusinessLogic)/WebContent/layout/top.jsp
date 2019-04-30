@@ -4,7 +4,7 @@
 
 <html>
 <head>
-<title>Model2 MVC Shop</title>
+<title>Model2 MVC Shop : 추가했음 추가추가추가추가</title>
 
 <link href="/css/left.css" rel="stylesheet" type="text/css">
 
